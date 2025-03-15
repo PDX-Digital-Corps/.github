@@ -2,7 +2,7 @@
 
 **Portland Digital Corps** is a short-term, volunteer-led civic tech initiative helping nonprofits and mission-driven organizations across the Portland metro area solve small, high-impact digital challenges.
 
-We match teams of experienced designers, developers, and product professionals with local organizations to scope, build, and deliver digital improvements—fast. Whether it’s fixing a website, improving a form, or building a lightweight tool, we focus on work that’s meaningful, scoped, and deliverable in an 8-week sprint.
+We match teams of experienced designers, developers, and product professionals with local organizations to scope, build, and deliver digital improvements—fast. Whether it’s fixing a website, improving a form, or building a lightweight tool, we focus on work that’s meaningful, scoped, and deliverable within a short sprint. 
 
 ## ✳️ What We Do
 
