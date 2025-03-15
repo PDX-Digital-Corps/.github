@@ -68,4 +68,4 @@ MIT License unless otherwise noted.
 
 ---
 
-*Portland Digital Corps is a temporary initiative organized in Spring 2024. Want to talk partnerships or press? Email [Ron](mailto:contact@ronbronson.com).*
+*Portland Digital Corps is a temporary initiative organized in Spring 2025. Want to talk partnerships or press? Email [Ron](mailto:contact@ronbronson.com).*
